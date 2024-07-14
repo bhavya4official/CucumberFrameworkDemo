@@ -1,4 +1,4 @@
-# CucumberFrameworkDemo
+# CucumberFrameworkDemo 🥒
 Cucumber BDD with Selenium POM design pattern.
 
 ### Cucumber is an open-source BDD tool used to develop test cases for the behaviour of software's functionality testing.
