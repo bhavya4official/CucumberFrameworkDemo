@@ -34,5 +34,4 @@ public class CheckoutPage {
 	public void placeOrderButton() {
 		driver.findElement(placeOrderButton).click();
 	}
-
 }
