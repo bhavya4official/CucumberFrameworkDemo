@@ -1,0 +1,17 @@
+# Ignore following files & folders
+**.log
+
+/.git
+/.classpath
+/.project
+/.settings
+
+/src/main
+/test-output
+
+target/*
+
+# exception to the rule
+!target/*.html
+!target/*.json 
+
